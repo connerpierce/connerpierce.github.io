@@ -1,2 +1,0 @@
-# connerpierce.github.io
-PersonalSite
